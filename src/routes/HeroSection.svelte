@@ -32,7 +32,7 @@
         🚀 Get Started
       </a>
       <a
-        href="https://github.com/yourusername/triggerkit"
+        href="https://github.com/EnoughXP/triggerkit"
         target="_blank"
         class="inline-flex items-center gap-2 px-8 py-4 bg-zinc-800 text-white font-semibold rounded-xl border border-zinc-700 hover:bg-zinc-700 hover:border-blue-500 transition-all duration-300"
       >

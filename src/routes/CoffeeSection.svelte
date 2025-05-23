@@ -38,7 +38,7 @@
   </p>
   <a
     bind:this={coffeeBtn}
-    href="https://buymeacoffee.com/yourusername"
+    href="buymeacoffee.com/cptcrunchy"
     target="_blank"
     onclick={handleCoffeeClick}
     class="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-yellow-400 to-orange-500 text-black font-bold rounded-xl hover:-translate-y-1 hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-orange-500/30"

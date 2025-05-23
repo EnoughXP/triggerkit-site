@@ -47,7 +47,7 @@
         </li>
         <li>
           <a
-            href="https://github.com/yourusername/triggerkit"
+            href="https://github.com/EnoughXP/triggerkit"
             target="_blank"
             class="text-zinc-400 hover:text-blue-400 font-medium transition-colors"
             >GitHub</a
