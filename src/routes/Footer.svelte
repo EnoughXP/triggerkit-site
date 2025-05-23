@@ -44,7 +44,7 @@ Made with ❤️ by a developer who got tired of rewriting functions!
 
   const footerLinks = [
     {
-      href: "https://github.com/yourusername/triggerkit",
+      href: "https://github.com/EnoughXP/triggerkit",
       text: "GitHub",
       target: "_blank",
     },
@@ -56,7 +56,7 @@ Made with ❤️ by a developer who got tired of rewriting functions!
     { href: "https://trigger.dev", text: "Trigger.dev", target: "_blank" },
     { href: "https://svelte.dev", text: "SvelteKit", target: "_blank" },
     {
-      href: "https://buymeacoffee.com/yourusername",
+      href: "buymeacoffee.com/cptcrunchy",
       text: "☕ Coffee",
       target: "_blank",
     },
